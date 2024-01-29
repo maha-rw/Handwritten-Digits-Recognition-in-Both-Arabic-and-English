@@ -12,3 +12,8 @@ Random Forest, an ensemble of decision trees, utilizes bootstrap aggregating. Tr
 A common preprocessing framework unifies image pixel normalization, while model-specific steps are implemented for optimal performance.
 
 Evaluation metrics encompass accuracy, recall, F1 score, and precision, visualized through confusion matrices. Results showcase high accuracy for both datasets, effective learning, and identified challenges, including missing testing labels for the English data
+
+
+Find the datasets on Kaggle by following the following links:
+English: https://www.kaggle.com/competitions/digit-recognizer/data
+Arabic: https://www.kaggle.com/datasets/mloey1/ahdd1
